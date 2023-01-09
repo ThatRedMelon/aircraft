@@ -34,6 +34,7 @@
 1. [APU] APU can now consume fuel - @tracernz (Mike)
 1. [EFB] Added UI message on fuel/payload page when GSX is activated - @frankkopp (Frank Kopp)
 1. [FWC] WING TANK LO LVL message now considers centre tank mode selector - @tracernz (Mike)
+1. [GENERAL] Added C++ WASM framework and migrated all flypad-backend code to it - @frankkopp (Frank Kopp)
 
 ## 0.10.0
 
@@ -159,7 +160,6 @@
 1. [EFB] Added pause at T/D function - @2hwk (2Cas#1022)
 1. [LIGHTS] Fixed trim decal emissive and floods - @FinalLightNL (FinalLight#2113)
 1. [FLIGHTMODEL/FUEL] Fix outer tank transfer behaviour - @donstim (donbikes#4084)
-
 
 ## 0.9.0
 
